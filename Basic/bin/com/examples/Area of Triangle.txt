@@ -1,0 +1,8 @@
+public class Main {
+    public static void main(String[] args) {
+        double length = 12.5;
+        double width = 8.75;
+        double area = 0.5 * length * width;
+        System.out.println("Area = " + area);
+    }
+}
